@@ -468,9 +468,14 @@ function Hero() {
         </Reveal>
 
         <Reveal className="hero-actions" delay={240}>
-          <a href="#" className="btn btn-primary">
-            <Download size={16} /> Download Resume
-          </a>
+          <a
+    href="/images/resume.pdf"
+    download="MANOJ_C_resume.pdf"
+    className="btn btn-primary"
+>
+    <Download size={16}/>
+    Download Resume
+</a>
           <button className="btn btn-ghost" onClick={() => document.getElementById("projects")?.scrollIntoView({ behavior: "smooth" })}>
             View Projects
           </button>
