@@ -211,9 +211,11 @@ const PROJECTS = [
 const FILTERS = ["All", "Full Stack", "Machine Learning", "Web", "React", "Python"];
 
 const CERTIFICATIONS = [
-  { title: "Meta Front-End Developer", issuer: "Coursera · Meta", date: "Mar 2025" },
-  { title: "Python for Data Science", issuer: "IBM", date: "Nov 2024" },
-  { title: "AWS Cloud Practitioner", issuer: "Amazon Web Services", date: "Jul 2025" },
+  { title: "Adobe XD UI UX", issuer: "HYSTERESIS PVT.LTD", date: "Dec 2023",Certificate:"HYSTEPUNADXDCHR713" },
+  { title: "Support Technician Cybersecurity", issuer: "CISCO", date: "Sep 2025",Certificate:"LNzd-s4ah" },
+  { title: "Full stack web developer", issuer: "Zephyr Technologies and Soluctions Pvt.Ltd", date: "Jul 2025",Certificate:"" },
+  { title: "Web Development", issuer: "Prodigy infoTech", date: "Aug 2024", CIN:"PIT/AUG24/22224" },
+  { title: "Digital 101 Journey", issuer: "Future skills prime, A Meity-NASSCOM", date: "Jul 2023",Certificate:"FSP/2023/6/4437687" },
 ];
 
 const ACHIEVEMENTS = [
