@@ -189,8 +189,8 @@ const PROJECTS = [
     features: ["Scroll-driven reveals", "Filterable project grid", "Accessible dark mode"],
     challenge: "Keeping the animation layer light without a motion library.",
     solution: "Wrote a small IntersectionObserver hook and CSS-driven transitions instead.",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Manoj-naidu-007/portfolio",
+    demo: "https://portfolio-8qyy.onrender.com",
   },
   {
     id: "future",
